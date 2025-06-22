@@ -1,0 +1,5 @@
+nohup: ignoring input
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2025-06-22 15:49:17.053 Port 8080 is already in use
