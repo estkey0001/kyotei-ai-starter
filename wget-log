@@ -1,0 +1,11 @@
+--2025-06-23 07:57:48--  https://raw.githubusercontent.com/estkey0001/kyotei-ai-starter/main/app.py
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.111.133, 185.199.109.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44526 (43K) [text/plain]
+Saving to: ‘app_github_full.py’
+
+app_github_full.py                               0%[                                                                                                  ]       0  --.-KB/s               app_github_full.py                             100%[=================================================================================================>]  43.48K  --.-KB/s    in 0.08s   
+
+2025-06-23 07:57:49 (572 KB/s) - ‘app_github_full.py’ saved [44526/44526]
+

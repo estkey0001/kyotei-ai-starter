@@ -1,4 +1,7 @@
+print("🔧 モデル読み込みエラー修正中...")
 
+# エラー修正版アプリ作成
+fixed_app = '''
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -309,7 +312,7 @@ def main():
 ### 3連単
 """
                 for formation in formations['trifecta'][:5]:
-                    article += f"- {formation['combination']} (期待値: {formation['expected_odds']}倍)\n"
+                    article += f"- {formation['combination']} (期待値: {formation['expected_odds']}倍)\\n"
                 
                 article += f"""
 ---
@@ -321,3 +324,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+'''
+
+# 修正版アプリに置換
+with open('app.py', 'w', encoding='utf-8') as f:
+    f.write(fixed_app)
+
+print("✅ モデル読み込みエラー修正完了")
