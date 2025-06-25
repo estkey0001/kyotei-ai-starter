@@ -1,0 +1,33 @@
+# CSV データファイル（サイズが大きいため除外）
+*.csv
+data/coconala_2024/*.csv
+
+# ログファイル
+*.log
+streamlit*.log
+
+# Python一時ファイル
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 環境設定
+.env
+.venv
+env/
+venv/
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# 一時ファイル
+*.tmp
+*.temp
+nohup.out
