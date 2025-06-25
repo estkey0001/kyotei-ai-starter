@@ -31,3 +31,18 @@ Thumbs.db
 *.tmp
 *.temp
 nohup.out
+
+# 機械学習モデルファイル（大容量のため除外）
+*.pkl
+*.model
+*.joblib
+
+# 大容量データファイル
+*ultra_high_accuracy*
+*trained_model*
+*ensemble_model*
+
+# 50MB以上のファイル
+*.bin
+*.h5
+*.hdf5
