@@ -1,0 +1,870 @@
+[
+  {
+    "date": "2025-08-28",
+    "venue": "住之江",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 10.72,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 1
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 1.61,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 6
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 9.59,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 3
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 6.95,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 5
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 10.28,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 2
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 7.61,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 4
+      }
+    },
+    "created_at": "2025-08-28T06:46:23.827939"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "大村",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 7.25,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 2
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 2.1,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 5
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 11.98,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 1
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 2.01,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 6
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 3.55,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 4
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 4.96,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 3
+      }
+    },
+    "created_at": "2025-08-28T06:47:56.141498"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "江戸川",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 4.96,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 4
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 9.11,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 2
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 11.99,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 1
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 6.59,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 3
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 1.78,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 6
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 3.69,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 5
+      }
+    },
+    "created_at": "2025-08-28T06:47:59.088234"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "平和島",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 3.38,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 4
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 0.64,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 5
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 9.97,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 2
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 0,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 6
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 4.96,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 3
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 11.27,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 1
+      }
+    },
+    "created_at": "2025-08-28T06:48:02.824891"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "住之江",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 6.6,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 3
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 9.95,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 1
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 7.91,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 2
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 4.8,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 5
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 4.57,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 6
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 5.02,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 4
+      }
+    },
+    "created_at": "2025-08-28T06:48:04.542371"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "住之江",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 10.5,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 3
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 3.56,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 6
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 11.24,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 1
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 4.52,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 4
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 10.51,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 2
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 4.44,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 5
+      }
+    },
+    "created_at": "2025-08-28T06:48:06.554560"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "大村",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 4.65,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 6
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 10.47,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 1
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 10.14,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 2
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 6.31,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 3
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 6.24,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 4
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 4.73,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 5
+      }
+    },
+    "created_at": "2025-08-28T06:48:12.874473"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "戸田",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 10.34,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 2
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 2.74,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 5
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 12.98,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 1
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 1.85,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 6
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 7.37,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 3
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 6.73,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 4
+      }
+    },
+    "created_at": "2025-08-28T06:50:43.119922"
+  },
+  {
+    "date": "2025-08-29",
+    "venue": "江戸川",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 3.58,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 5
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 6.27,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 3
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 8.86,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 2
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 0.62,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 6
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 11.12,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 1
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 4.4,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 4
+      }
+    },
+    "created_at": "2025-08-28T06:50:49.702215"
+  },
+  {
+    "date": "2025-08-29",
+    "venue": "戸田",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 4.08,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 5
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 4.99,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 4
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 13.19,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 1
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 3.06,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 6
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 6.59,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 3
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 6.83,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 2
+      }
+    },
+    "created_at": "2025-08-28T06:50:53.253357"
+  },
+  {
+    "date": "2025-08-29",
+    "venue": "江戸川",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 4.06,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 5
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 7.17,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 1
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 4.76,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 3
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 7.08,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 2
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 4.67,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 4
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 2.11,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 6
+      }
+    },
+    "created_at": "2025-08-28T06:51:00.310227"
+  },
+  {
+    "date": "2025-08-29",
+    "venue": "江戸川",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 2.33,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 5
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 8.84,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 3
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 12.5,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 1
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 1.69,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 6
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 8.66,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 4
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 9.52,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 2
+      }
+    },
+    "created_at": "2025-08-28T06:51:03.924518"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "住之江",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 2.79,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 4
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 9.82,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 3
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 13.77,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 1
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 0,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 6
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 1.63,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 5
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 11.63,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 2
+      }
+    },
+    "created_at": "2025-08-28T06:52:57.847683"
+  },
+  {
+    "date": "2025-08-28",
+    "venue": "江戸川",
+    "race_num": 1,
+    "predictions": {
+      "4001": {
+        "racer_number": 1,
+        "racer_name": "峰竜太",
+        "win_probability": 3.75,
+        "st_time": 0.15,
+        "win_rate": 6.5,
+        "local_win_rate": 6.2,
+        "predicted_rank": 5
+      },
+      "4002": {
+        "racer_number": 2,
+        "racer_name": "毒島誠",
+        "win_probability": 8.61,
+        "st_time": 0.18,
+        "win_rate": 5.8,
+        "local_win_rate": 6.1,
+        "predicted_rank": 1
+      },
+      "4003": {
+        "racer_number": 3,
+        "racer_name": "菊地孝平",
+        "win_probability": 7.16,
+        "st_time": 0.12,
+        "win_rate": 7.2,
+        "local_win_rate": 7.5,
+        "predicted_rank": 3
+      },
+      "4004": {
+        "racer_number": 4,
+        "racer_name": "石野貴之",
+        "win_probability": 7.52,
+        "st_time": 0.2,
+        "win_rate": 4.9,
+        "local_win_rate": 4.7,
+        "predicted_rank": 2
+      },
+      "4005": {
+        "racer_number": 5,
+        "racer_name": "今垣光太郎",
+        "win_probability": 5.35,
+        "st_time": 0.16,
+        "win_rate": 6.1,
+        "local_win_rate": 5.9,
+        "predicted_rank": 4
+      },
+      "4006": {
+        "racer_number": 6,
+        "racer_name": "田村隆信",
+        "win_probability": 3.35,
+        "st_time": 0.14,
+        "win_rate": 5.5,
+        "local_win_rate": 5.8,
+        "predicted_rank": 6
+      }
+    },
+    "created_at": "2025-08-28T06:53:33.739142"
+  }
+]
