@@ -1,5 +1,6 @@
-streamlit>=1.28.0
-pandas>=1.5.0
-numpy>=1.24.0
-scikit-learn>=1.3.0
-xgboost>=1.7.0
+# 競艇AI予想システム - 必須パッケージ
+streamlit>=1.0.0
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+xgboost>=1.5.0
